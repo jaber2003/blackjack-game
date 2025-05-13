@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to right, #232526, #414345);
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #f39c12;
+  color: #fff;
+}
+
+button:hover {
+  opacity: 0.9;
+}
